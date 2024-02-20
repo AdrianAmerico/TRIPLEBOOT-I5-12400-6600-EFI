@@ -1,4 +1,4 @@
-#Setup here
+# Setup here
 
 Intel i5 12400
 ASUS TUF B6600-PLUS WIFI D4 
